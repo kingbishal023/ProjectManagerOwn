@@ -1,4 +1,4 @@
-# ㅤ🔰 PREMIUM OVPN MANAGER BY 𝘽𝙄𝙎𝙃𝘼𝙇 𝘼𝙃𝙈𝙀𝘿 🔰             
+# ㅤTest          
 
 **Manage Script**
 
